@@ -1,0 +1,6 @@
+Through Developer Command Prompt:
+
+cd C:\С++\OSLABA4\OSLABA4
+cl /EHsc OSLABA4.cpp
+cl /EHsc sender.cpp
+OSLABA4.exe
